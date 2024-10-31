@@ -1,0 +1,4 @@
+shahnaz:lost(goal=3)
+akbar:won(goals=5)
+farnaz:won(goals=5)
+asra:won(goals=5)

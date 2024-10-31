@@ -1,0 +1,4 @@
+kimia:won(goal=5)
+ali:lost(goals=0)
+saba:lost(goals=3)
+sama:lost(goals=3)
